@@ -1,0 +1,3 @@
+This is SuperMarket sales Analysis Project and i have Analyzed and found some 7 important insights out of this. Those insights can be benificial for the growth of this particular supermarket. you can see all the analysis down the line. also i tried to predict tax from this dataset using linear regression and random forest regressor models which can be useful in some other way. Check this as Analysis part of my work and i will still work on Machine Learning part of this project and try to upload some other versions of my work as well. this analysis will be super useful ..
+
+Have a look and Upvote if you got any useful insights.
